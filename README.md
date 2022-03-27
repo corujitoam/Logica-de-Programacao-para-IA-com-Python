@@ -161,16 +161,14 @@ UNIDADE 2:	LINGUAGEM PYTHON
 - Ambientes Virtuais;
 - Anaconda 
 - Google Colab Notebook;
-- Instalação de Bibliotecas;	1- Quadro branco
-2-Pinceis
-3-Computadores
-4-Acesso à Internet
-5-Datashow
+- Instalação de Bibliotecas;	1
+
 https://github.com/hiramaralIA/Logica-de-Programacao-para-IA-com-Python/tree/master1	-Apresentação dos sites e fontes de download dos instaladores.
 -Apresentação dos ambientes virtuais como Google Colab
 -Instalação dos interpretadores	-Proposta de exercícios básicos envolvendo matemática e texto para verificar o aprendizado, com lista de exercícios ao final da aula
-Aula 9
-Linguagem de Programação Python	3 horas	### Linguagem de Programação Python:
+
+# Aula 9
+## Linguagem de Programação Python	3 horas	### Linguagem de Programação Python:
 - Operações Aritméticas;
 - Variáveis;
 - Tipos de Dados;
@@ -214,11 +212,8 @@ PASSO 3 – PREPARAR OS DADOS PARA OD ALGORITMOS
 Limpar os dados
 Textos >> dados
 Customizar transformações
-Normalizar os dados	1- Quadro branco
-2-Pinceis
-3-Computadores
-4-Acesso à Internet
-5-Datashow
+Normalizar os dados	
+
 
 https://github.com/hiramaralIA/Logica-de-Programacao-para-IA-com-Python/tree/master1	- Aulas práticas com teorias aplicadas às estruturas estudados
 - Estudo de exemplos feitos
