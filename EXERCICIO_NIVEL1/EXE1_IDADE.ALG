@@ -1,32 +1,32 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Hiram Amaral 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : alunocetam22
-// Data atual  : 25/03/2022
+Algoritmo "Idade"
+// Disciplina   : [Linguagem e Logica de Programacao]
+// Professor   : Hiram
+// Descri??o   : Calcular idade para saber se tem direitoa passagem livre
+// Autor(a)    : Marcelino Macedo
+// Data atual  : 29/03/2022
 
 Var
-// Seção de Declarações das variáveis
+// Se??o de Declara??es das vari?veis
   nome: caractere
   ano_at, ano_nc, idade: inteiro
 
 Inicio
+     escreva("Digite seu nome: ")
+     leia(nome)
 
-  escreva("Digite seu nome")
-  leia(nome)
+     escreva("Ano de nascimento: ")
+     leia(ano_nc)
 
-  escreva("Digite o ano de seu nascimento")
-  leia(ano_nc)
-
-  escreva("Digite o ano atual")
-  leia(ano_at)
+     escreva("Ano atual: ")
+     leia(ano_at)
 
   idade <- ano_at - ano_nc
+    escreval ("Seu nome é: ", nome)
+    escreval ("Sua idade é:", idade)
 
-
-  escreva ("Seu nome e ", nome)
-
-
-  escreva ("Sua idade e ", idade)
+    se idade >= 40 entao
+    escreval ("Você pode andar de oninus de graça")
+    senão ("Você não tem direito a gratuidade")
+    fimse
 
 Fimalgoritmo
